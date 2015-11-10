@@ -8,6 +8,10 @@ pip install devops
 
 Because DevOps.
 
+#### Work In Progress
+
+So, in true DevOps style...this is work in progress. The DevOps doesn't exist yet to download, but it will soon.
+
 ####Usage
 
 To check that the devops has been installed:
@@ -26,4 +30,4 @@ Unit tests are included for tox. If you're going to DevOps, do it properly.
 
 ####Code quality
 
-This comes with the CRAPL license. Also, it's PEP8 and PEP257 compliant
+This comes with the CRAPL license. Also, it's PEP8 and PEP257 compliant.
