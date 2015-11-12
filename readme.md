@@ -2,13 +2,19 @@
 
 Brah. You do networking. You want to look at DevOps? Then install it like this:
 
+####Install from PyPi
+
+```
+$ pip install the_devops
+```
+
+####Install from source
+
 ```
 $ git clone https://github.com/davidjohngee/devops
 $ cd devops
 $ sudo python setup.py install
 ```
-
-This will eventually be in pypi, but someone stole the name 'devops'.
 
 Maybe it will be know as 'thedevops'. Update soon
 
