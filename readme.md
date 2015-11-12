@@ -20,9 +20,9 @@ To check that the devops has been installed:
 
 ```python
 $ python
->>> import devops
->>> mydevops = DevOps()
->>> print mydevops
+>>> from devops.devops import devops
+>>> thedevops = DevOps()
+>>> print thedevops
 Brah - you totally did the DevOps
 ```
 
