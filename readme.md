@@ -44,3 +44,9 @@ This also includes the flake8 static analysis tests.
 
 ####Code quality
 The code is covered by the CRAPL license. See the LICENSE file.
+
+####Serious purpose?
+
+This is an educational package riding on the back of 'the devops', sweeping it's way through the industry.
+
+If you want to add your own devops magic, add the feature, add the test and create a pull request.
