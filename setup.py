@@ -1,17 +1,17 @@
 #!/usr/bin/env python
 '''
-Setup for pynos
+Setup for devops
 '''
 from setuptools import setup, find_packages
 
-setup(name='pynos',
-      version='1.0.1',
-      description='Brocade NOS Library.',
-      author='Brocade Communications Systems, Inc.',
-      author_email='mstone@brocade.com',
-      url='http://www.brocade.com/',
+setup(name='devops',
+      version='1.0.0',
+      description='A magic devops package',
+      author='A shameful project by @davidjohngee',
+      author_email='david.john.gee@gmail.com',
+      url='http://ipengineer.net',
       packages=find_packages(),
-      install_requires=["ncclient", "ipaddress"],
+      install_requires=[],
       classifiers=[
           'Development Status :: 5 - Production/Stable',
           'Intended Audience :: Developers',
