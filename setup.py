@@ -4,12 +4,12 @@ Setup for devops
 '''
 from setuptools import setup, find_packages
 
-setup(name='devops',
+setup(name='the_devops',
       version='1.0.0',
       description='A magic devops package',
       author='A shameful project by @davidjohngee',
       author_email='david.john.gee@gmail.com',
-      url='http://ipengineer.net',
+      url='https://github.com/davidjohngee/devops',
       packages=find_packages(),
       install_requires=[],
       classifiers=[
