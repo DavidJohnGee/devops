@@ -2,9 +2,15 @@
 
 Brah. You do networking. You want to look at DevOps? Then install it like this:
 
-```python
-pip install devops
 ```
+$ git clone https://github.com/davidjohngee/devops
+$ cd devops
+$ sudo python setup.py install
+```
+
+This will eventually be in pypi, but someone stole the name 'devops'.
+
+Maybe it will be know as 'thedevops'. Update soon
 
 Because DevOps.
 
@@ -31,9 +37,10 @@ Brah - you totally did the DevOps
 Unit tests are included for tox. If you're going to DevOps, do it properly.
 
 ```python
-$ tox -e unittest
+$ tox
 ```
 
-####Code quality
+This also includes the flake8 static analysis tests.
 
-This comes with the CRAPL license. Also, it's PEP8 compliant.
+####Code quality
+The code is covered by the CRAPL license. See the LICENSE file.
