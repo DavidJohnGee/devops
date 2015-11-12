@@ -35,7 +35,7 @@ $ python
 >>> from devops.devops import devops
 >>> thedevops = DevOps()
 >>> print thedevops
-Brah - you totally did the DevOps
+Dude, you totally devopsificated
 ```
 
 ####Testing
